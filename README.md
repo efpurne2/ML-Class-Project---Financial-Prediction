@@ -1,5 +1,6 @@
 # engr-ALDA-Fall2022-P27
 # Authors: Ethan Purnell, Morgan Chapman, and Ben Morris
+### Currently there is no license available for this project. We have not discussed as a group. Perhaps that will change in the future.
 
 Our project was focused on a comparison of different machine learning algorithms to predict buy/sell points as a binary classification in the stock market.
 We compared 5 algorithms:
